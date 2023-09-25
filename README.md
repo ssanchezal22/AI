@@ -4,8 +4,8 @@ Repositorio de la materia de Inteligencia Artificial - 2023-II
 
 # Nombres: 
 
-- Sebastián Sánchez Álvarez
-- Juan Diego Arroyave Murillo
+- ***Sebastián Sánchez Álvarez***
+- ***Juan Diego Arroyave Murillo***
   
 # Número de documento: 
 
@@ -14,5 +14,5 @@ Repositorio de la materia de Inteligencia Artificial - 2023-II
 
 # Programa: 
 
-  - Ingeniería Industrial 
-  - Ingeniería Industrial
+  - ***Ingeniería Industrial***
+  - ***Ingeniería Industrial***
