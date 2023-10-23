@@ -16,3 +16,5 @@ Repositorio de la materia de Inteligencia Artificial - 2023-II
 
   - ***Ingeniería Industrial***
   - ***Ingeniería Industrial***
+
+LINK VIDEO ENTREGA 2: https://youtu.be/-UIPgME-Ong
