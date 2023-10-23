@@ -17,4 +17,6 @@ Repositorio de la materia de Inteligencia Artificial - 2023-II
   - ***Ingeniería Industrial***
   - ***Ingeniería Industrial***
 
+ENLACE DE LOS DATOS: https://www.kaggle.com/datasets/devansodariya/road-accident-united-kingdom-uk-dataset/data
+
 LINK VIDEO ENTREGA 2: https://youtu.be/-UIPgME-Ong
