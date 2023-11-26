@@ -21,4 +21,4 @@ ENLACE DE LOS DATOS: https://www.kaggle.com/datasets/devansodariya/road-accident
 
 LINK VIDEO ENTREGA 2: https://youtu.be/-UIPgME-Ong
 
-OBTENCIÓN DE LOS DATOS: Los datos deben descargarse y subirse localmente al colab en formato .CSV
+LINK VIDEO ENTREGA FINAL: https://youtu.be/vS4LJXKJWm4
